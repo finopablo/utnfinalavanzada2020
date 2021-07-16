@@ -1,2 +1,0 @@
-insert into cities(iata_code, city_name) values ('MDQ', 'Mar del Plata'),('BUE', 'Buenos Aires'),('BOG','Bogota');
-insert into employees(first_name, last_name, age, city) values ('Juan','Perez',23,'MDQ'),('Pedro','Rodriguez',23,'MDQ'),('Lucas','Ocampos',29,'BOG');
