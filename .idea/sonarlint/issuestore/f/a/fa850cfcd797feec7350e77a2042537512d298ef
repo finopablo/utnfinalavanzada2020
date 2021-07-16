@@ -1,0 +1,6 @@
+
+r	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™ñşÿÿÿÿ
+e
+java:S2259"LA "NullPointerException" could be thrown; "getDataSource()" can return null.(²¬Ö³ıÿÿÿÿ
+h
+java:S3305"TInject this field value directly into "getConnection", the only method that uses it.(Ùàù
