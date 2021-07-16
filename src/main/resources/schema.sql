@@ -1,3 +1,7 @@
+DROP DATABASE final;
+CREATE DATABASE final;
+USE final;
+
 CREATE TABLE cities(iata_code varchar(3)  PRIMARY KEY,
                     city_name varchar(50) NOT NULL);
 CREATE TABLE employees (id int  PRIMARY KEY,
