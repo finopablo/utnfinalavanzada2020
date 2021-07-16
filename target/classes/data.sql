@@ -1,0 +1,2 @@
+insert into cities values ('MDQ', 'Mar del Plata'),('BUE', 'Buenos Aires'),('BOG','Bogota');
+insert into employees values (1,'Juan','Perez',23,'MDQ'),(2,'Pedro','Rodriguez',23,'MDQ'),(3,'Lucas','Ocampos',29,'BOG');
